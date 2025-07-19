@@ -31,5 +31,5 @@
 - **UUID** for unique task IDs
 - **LocalStorage** for task persistence
 
----
+
 
