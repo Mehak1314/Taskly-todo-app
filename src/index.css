@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply min-h-screen w-full overflow-x-hidden transition-all duration-500 
+         bg-gradient-to-tr from-purple-200 via-pink-100 to-yellow-100 
+         dark:bg-gradient-to-br dark:from-gray-600 dark:via-gray-700 dark:to-gray-800;
+}
